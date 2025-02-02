@@ -1,2 +1,4 @@
-# git-playground
-Git playground for learning and experimentation.
+# Git Playground
+Git playground for learning, experimentation, practicing Git commands, exploring Git features, etc.
+
+
