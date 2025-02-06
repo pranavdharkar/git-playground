@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="./css/markdown.css">
+<style>
+h1 {
+    color: green;
+}
+</style>
 
 # Git Playground
 
